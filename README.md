@@ -36,10 +36,10 @@ I enjoy building real-world projects and solving problems.
 
 ### 🟫 CodeChef
 
-[![CodeChef](https://cp-logo.vercel.app/codechef/major_zest_46)](https://www.codechef.com/users/major_zest_46)
+[![CodeChef](https://img.shields.io/badge/CodeChef-major__zest__46-orange?style=flat-square&logo=codechef)](https://www.codechef.com/users/major_zest_46)
 
 - 🍽️ Active in contests and DSA practice  
-- 🔗 [View My CodeChef Profile](https://www.codechef.com/users/major_zest_46)
+- 🔗 [Visit CodeChef Profile](https://www.codechef.com/users/major_zest_46)
 
 ---
 

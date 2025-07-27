@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi, I'm Inderdeep Singh — a Computer Science undergraduate at BIT Mesra.<br>  
-I'm passionate about full-stack web development and cybersecurity. I work with technologies like Angular, Node.js, Express, MongoDB, and PHP-MySQL. I enjoy building real-world projects and solving problems.
+Hi, I'm Inderdeep Singh — a Computer Science undergraduate at BIT Mesra.<br> 
+I’m passionate about building real-world applications using Angular, Node.js, PHP, and MongoDB. I love clean code, modular design, and solving DSA problems on platforms like LeetCode and Codeforces. Currently diving deeper into secure backend systems and scalable architectures.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/isb.inder2050?igsh=dHYwejl3ajlpeTBo)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inderdeep-singh-a01a9b27b/)   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isb.inder59433@gmail.com)  

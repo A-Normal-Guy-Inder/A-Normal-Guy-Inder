@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, I'm Inderdeep Singh — a Computer Science undergraduate at BIT Mesra.<br> 
+
 I’m passionate about building real-world applications using Angular, Node.js, PHP, and MongoDB. I love clean code, modular design, and solving DSA problems on platforms like LeetCode and Codeforces. Currently diving deeper into secure backend systems and scalable architectures.
 
 ## 🌐 Socials:

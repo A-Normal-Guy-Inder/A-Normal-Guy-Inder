@@ -26,7 +26,7 @@ I’m passionate about building real-world applications using Angular, Node.js, 
 
 ### 🟧 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/user9360Do?ext=heatmap&theme=light&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/_paaji_?ext=heatmap&theme=light&font=baloo)
 
 - 👨‍💻 Solved 350+ problems  
 - 📈 Top 8% globally  

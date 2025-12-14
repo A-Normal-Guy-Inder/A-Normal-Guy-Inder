@@ -30,7 +30,7 @@ I’m passionate about building real-world applications using Angular, Node.js, 
 
 - 👨‍💻 Solved 350+ problems  
 - 📈 Top 8% globally  
-- 🔗 [View My LeetCode Profile](https://leetcode.com/u/user9360Do/)
+- 🔗 [View My LeetCode Profile](https://leetcode.com/u/_paaji_/)
 
 ---
 

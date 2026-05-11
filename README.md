@@ -54,9 +54,11 @@ I’m passionate about building real-world applications using Angular, Node.js, 
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Normal-Guy-Inder&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=A-Normal-Guy-Inder&theme=solarized-dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Normal-Guy-Inder&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Normal-Guy-Inder&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=A-Normal-Guy-Inder&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Normal-Guy-Inder&layout=compact&theme=tokyonight)
 
 ---
 
